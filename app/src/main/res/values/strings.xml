@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">БЕТОНИР</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">В разработке</string>
+    <string name="title_activity_navi_fun">Тип фундамента</string>
+    <string name="title_activity_fun1">Тип №1</string>
+    <string name="action_nastroi">На главную</string>
+    <string name="action_email">Тип фундамента</string>
+    <string name="action_info">О кнопках</string>
+    <string name="ress">Сброс результата</string>
+    <string name="vixod">Выход</string>
+    <string name="title_activity_fun2">Тип №2</string>
+    <string name="title_activity_fun3">Тип №3</string>
+    <string name="title_activity_fun4">Тип №4</string>
+    <string name="title_activity_fun5">Тип №5</string>
+    <string name="title_activity_fun6">Тип №6</string>
+    <string name="title_activity_fun7">Тип №7</string>
+    <string name="title_activity_fun8">Тип №8</string>
+
+    <string name="activity_web_beton">Поиск бетона ...</string>
+    <string name="armatura">Арматуру запрещено соединять в местах максимального напряжения стержней
+        и зонах приложения (концентрированного) нагрузки на них.</string>
+    <string name="activity_web_armatura">ПОИСК АРМАТУРЫ ...</string>
+    <string name="title_activity_perimetr">Тип - периметр</string>
+    <string name="one">ПОИСК</string>
+
+    <string name="three">Данных пока нет</string>
+    <string name="two">TWO</string>
+    <string name="title_activity_scrollable_tabs">Scrollable Tabs</string>
+    <string name="title_activity_simple_tabs">Simple Tabs</string>
+    <string name="btn_simple_tabs">Simple Tabs</string>
+    <string name="btn_scrollable_tabs">Scrollable Tabs</string>
+    <string name="btn_icon_text_tabs">Icon &amp; Text Tabs</string>
+    <string name="btn_icon_tabs">Only Icon Tabs</string>
+    <string name="btn_pinned_top_tabs">Pinned To Top Tabs</string>
+    <string name="title_activity_icon_text_tabs">Icon and Text Tabs</string>
+    <string name="title_activity_icon_tabs">Icon Tabs</string>
+    <string name="btn_custom_icon_tabs">Custom View Icon &amp; Text</string>
+    <string name="title_activity_custom_view_icon_text_tabs">Custom View Icon &amp; Text</string>
+    <string name="title_activity_pinned_top_tabs">Pin Top Tabs</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="my_tb_title">БЕТОНИР</string>
+    <string name="web_beton">Поиск бетона ...</string>
+    <string name="my_fundamenti">Форма фундамента</string>
+    <string name="web_armatura">Поиск арматуры ...</string>
+    <string name="web_plus">Предложить фундамент</string>
+    <string name="title_activity_pris_8">Пристройка - периметр</string>
+    <string name="title_activity_pris_1">Пристройка №1</string>
+    <string name="title_activity_pris_2">Пристройка №2</string>
+    <string name="title_activity_pris_3">Пристройка №3</string>
+    <string name="title_activity_pris_4">Пристройка №4</string>
+    <string name="title_activity_pris_5">Пристройка №5</string>
+
+
+</resources>
